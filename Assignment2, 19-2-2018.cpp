@@ -25,7 +25,7 @@ int main()
     for (int i = 0; i < nEmployees; i++)
     {
 
-        double employeeData[2] = {}; // 0-Hours, 1-employeeData[1]
+        double employeeData[2] = {}; // 0-Hours, 1-Dependants
         double employeeWithdraws[6] = {0, 0, 0, 10, 0, 0}; //0-Social Security, 1-Federal Tax, 2- State Income, 3- Union Dues, 4- Health Insurance(0),5- Total Withdraws;
         double employeeSalary[2] = {}; // 0 - Gross Salary, 1- Net Salary
 
