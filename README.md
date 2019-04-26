@@ -1,2 +1,2 @@
 # sp-assignments
-Codes for the assignments of the structural programming course 2018 (Proff. Sally Saad)
+Codes for the assignments of the structured programming course 2018 (Dr. Sally Saad)
